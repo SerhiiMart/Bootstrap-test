@@ -18,7 +18,14 @@ body {
 }
 
 /*============= NAVIGATION =============*/
-
+.navbar-brand img {
+  height: 3rem;
+}
+.navbar {
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: .5rem;
+}
 
 
 /*============= CAROUSEL =============*/

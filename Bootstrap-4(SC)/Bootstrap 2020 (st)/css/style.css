@@ -121,9 +121,14 @@ body {
 .emoji {
   background-image: linear-gradient(to right, #4981b3, #ac2615);
   min-height: 0!important;
-  padding: .4rem 0!important;
+  padding: .8rem 0!important;
 }
 
+.emoji .fa-cog {
+  margin: 0 auto;
+  color: whitesmoke;
+  font-size: 3rem;
+}
 
 /*============= FOOTER =============*/
 
